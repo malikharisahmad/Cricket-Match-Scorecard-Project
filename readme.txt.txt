@@ -1,0 +1,2 @@
+This CricketMatch class can be used to run one inning of a match and store the scores in a database named as the team name who plays the innings. To complete a match, you have to create a CricketMatch two times.
+The CricketMatchDisplay class takes two databases in the __init__ and display their score data or scorecard and declares the winner.
